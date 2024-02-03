@@ -7,14 +7,7 @@ This project guide focuses on building a robust Admin Dashboard using the MERN s
 ### Step 1: Environment Setup
 Ensure you have Node.js and MongoDB installed on your system. These are essential for running the backend and managing the database.
 
-### Step 2: Clone the Repository
-Clone this repository to your local machine to get started with the project. Use the following command:
-
-```bash
-git clone <repository-url>
-```
-
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 Navigate to the project directory and install the required dependencies for both the frontend and backend.
 
 ```bash
@@ -27,17 +20,17 @@ cd ../frontend
 npm install
 ```
 
-### Step 4: Configure Environment Variables
+### Step 3: Configure Environment Variables
 Set up your environment variables according to the `.env.example` file found in both the backend and frontend directories.
 
-### Step 5: Run the Backend Server
+### Step 4: Run the Backend Server
 Start the backend server. Ensure you're in the backend directory before running the command.
 
 ```bash
 npm start
 ```
 
-### Step 6: Launch the Frontend Application
+### Step 5: Launch the Frontend Application
 Open a new terminal window, navigate to the frontend directory, and start the React application.
 
 ```bash
